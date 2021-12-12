@@ -1,6 +1,5 @@
 name: Noa Azoulay
-user name: azoulan6
-ID: 313445306
+
 
 compile: bin
 	find src -name "*.java" > sources.txt
